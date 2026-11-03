@@ -12,12 +12,12 @@ import { getAuth } from "firebase/auth";
 //📚En este proyecto educativo, por simplicidad para todos, lo utilizamos asi
 //👉A futuro lo reemplazarían por variables de entorno y archivo .env😉
 const firebaseConfig = {
-  apiKey: "AIzaSyCJdaxMSmRcwTdDS10GZbcXyEOMgrlF2Ts",
-  authDomain: "tp-c26122.firebaseapp.com",
-  projectId: "tp-c26122",
-  storageBucket: "tp-c26122.firebasestorage.app",
-  messagingSenderId: "280456659694",
-  appId: "1:280456659694:web:2f3201d78e64a2299be9ff",
+  apiKey: "AIzaSyB12Z-v7_PGugMNJg8VTXRPQbqphZ1h8d4",
+  authDomain: "c26242-537ed.firebaseapp.com",
+  projectId: "c26242-537ed",
+  storageBucket: "c26242-537ed.firebasestorage.app",
+  messagingSenderId: "934185101606",
+  appId: "1:934185101606:web:5e0c1e42d9e99a873539e7",
 };
 
 // Initialize Firebase
