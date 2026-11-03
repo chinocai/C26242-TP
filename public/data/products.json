@@ -4,7 +4,7 @@
     "name": "Zapatillas Adidas",
     "description": "Zapatillas Blanca",
     "price": 12500,
-    "image": "/img/footware/1.jpg",
+    "image": "/img/footware/1.jpeg",
     "category": "infantil"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Zapatillas Adidas",
     "description": "Zapatillas Verde",
     "price": 12500,
-    "image": "/img/footware/2.jpg",
+    "image": "/img/footware/2.jpeg",
     "category": "infantil"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Zapatillas Adidas",
     "description": "Zapatillas Azul",
     "price": 28900,
-    "image": "/img/footware/3.jpg",
+    "image": "/img/footware/3.jpeg",
     "category": "dama"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Zapatillas Adidas",
     "description": "Runner",
     "price": 35000,
-    "image": "/img/footware/4.jpg",
+    "image": "/img/footware/4.jpeg",
     "category": "dama"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Zapatillas Adidas",
     "description": "Zapatillas Rosadas",
     "price": 42000,
-    "image": "/img/footware/5.jpg",
+    "image": "/img/footware/5.jpeg",
     "category": "hombre"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Zapatillas Adidas",
     "description": "Zapatillas Roja",
     "price": 45500,
-    "image": "/img/footware/6.jpg",
+    "image": "/img/footware/6.jpeg",
     "category": "hombre"
   }
 ]
